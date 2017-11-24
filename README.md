@@ -13,3 +13,5 @@ Based on Coursera Machine Learning Lecture(Stanford University)
 4. Back Propagation (ex4)
 
 5. Learning Evaluation (ex5)
+
+6. Support Vector Machine / Spam filtering (ex6)
